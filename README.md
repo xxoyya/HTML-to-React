@@ -18,3 +18,8 @@
 - todo 페이지 개발
 - HTML, CSS, JS 사용
 - 기간: 2024. 11. 09. ~ 2024. 11. 15.
+
+## ssizennetWebRenewal
+<img src="https://github.com/user-attachments/assets/12c7b3c0-552b-4ef2-b98a-9b5d8710b41d" width="350" height="280"> <br>
+<img src="https://github.com/user-attachments/assets/9795ec35-cb47-4fa7-b894-5c2ecd4ebdab" width="350" height="230"> <br>
+[ssizennetWebRenewal깃허브](https://github.com/ssizennetWebRenewal)
